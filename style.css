@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #ffb2dc;
+}
+.center{
+    text-align: center;
+}
+
+.logo{
+    width: 300px;
+    height: 200px;
+}
+.linha{
+    display: flex;
+}
+.ponto{
+    width: 300px;
+    height: 400px;
+    padding-left: 100px;
+}
